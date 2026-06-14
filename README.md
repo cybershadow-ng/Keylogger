@@ -44,6 +44,21 @@ O projeto possui uma interface simples de comandos para controle do ambiente de 
 A comunicação entre cliente e servidor é realizada via sockets, permitindo interação em tempo real durante o ambiente controlado de testes.
 
 ---
+## 🧰 Requisitos
+
+O projeto requer Python 3.x instalado em ambas as máquinas e comunicação via rede local habilitada. Também é necessária a instalação da biblioteca Python utilizada no projeto.
+
+Instalação das dependências:
+
+pip install keyboard
+
+---
+
+## 💻 Compatibilidade
+
+Cliente testado em ambiente Windows. Servidor testado em ambiente Linux (único ambiente validado durante o desenvolvimento).
+
+---
 
 ## 🧪 Ambiente de Uso
 
